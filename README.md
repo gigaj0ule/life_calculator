@@ -1,3 +1,3 @@
 # Life Calculator
 
-why wait?
+https://thotcrime.org/life_calculator/
